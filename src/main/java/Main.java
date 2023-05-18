@@ -4,7 +4,6 @@ public class Main {
         Petal petal1 = new Petal();
         petal1.color = "Белый";
         petal1.smell = "Невероятный";
-        petal1.quantity = 7;
         flower.petal = petal1;
 
         Bud bud1 = new Bud();
